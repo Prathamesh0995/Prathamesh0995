@@ -18,7 +18,7 @@ Tech stack
 - 💞️ I’m looking to collaborate on cloud computing, Devops, Automation, IAC, open source project
 - 📫 How to reach me warekarprathamesh@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: NEVER STOP LEARNING
 
 
 <!---
